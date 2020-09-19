@@ -1,6 +1,0 @@
-# Block crawling from jz2027/Files/
-# All other directories on the site are allowed by default.
-User-agent: *
-Disallow: /Files/
-
-Sitemap: http://people.bath.ac.uk/jz2027/sitemap.xml

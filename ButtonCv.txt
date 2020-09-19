@@ -1,2 +1,0 @@
-line 42:
-								<li class="nav-item"><a class="nav-link" href="Files/CV-Jiani-Zhou.pdf" target="_blank">CV AMAZING CV</a></li>
